@@ -1,8 +1,4 @@
 A Day in the Life of a Superhero.
 
 
-<<<<<<< HEAD
 Once upon a time a Luis woke up. He was tired of fixing all bugs made by Joe. So she stayed at home, watched and ate ice cream.
-=======
-Once upon a time a superhero woke up. She was tired of fixing all mess made by the humans. So she stayed at home, then a bunch of zombies appear and the apocallipse begun.
->>>>>>> 64acfdcec4b719700f24689fdd39f641898d1c6e
